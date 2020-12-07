@@ -1,0 +1,3 @@
+# Project exclude paths
+/dw-flume-intercetor/target/
+/dw_logger/target/
